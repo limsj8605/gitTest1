@@ -1,0 +1,6 @@
+aaaa
+bbbb
+qqqq
+wwww
+원격저장소
+클론으로 가져옴
